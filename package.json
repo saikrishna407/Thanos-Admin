@@ -1,0 +1,21 @@
+{
+  "name": "Thanos-Admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --watch database.json --port 8000 --middlewares ./range.js",
+    "admin": "npm start --prefix admin",
+    "dev": "concurrently \"npm run server\" \"npm run admin\" "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "concurrently": "^6.0.0",
+    "json-server": "^0.16.3",
+    "ra-data-simple-rest": "^3.10.4",
+    "react-admin": "^3.13.1"
+  }
+}

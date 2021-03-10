@@ -1,0 +1,54 @@
+{
+  "Organization": [
+    {
+      "id": "1",
+      "Name": "sai",
+      "Adderss": "This is the post body",
+      "Email": "saikrishna@gmail.com",
+      "Phone Number": "999999999",
+      "Website": "www.saikrishna.com"
+    },
+    {
+      "id": "3",
+      "Name": "sai2",
+      "Adderss": "This is the post body",
+      "Email": "saikrishna@gmail.com",
+      "Phone Number": "999999999",
+      "Website": "www.saikrishna.com"
+    },
+    {
+      "id": "4",
+      "Name": "sai2",
+      "Adderss": "This is the post body",
+      "Email": "saikrishna@gmail.com",
+      "Phone Number": "999999999",
+      "Website": "www.saikrishna.com"
+    },
+    {
+      "id": "5",
+      "Name": "sai2",
+      "Adderss": "This is the post body",
+      "Email": "saikrishna@gmail.com",
+      "Phone Number": "999999999",
+      "Website": "www.saikrishna.com"
+    }
+  ],
+  "Roles": [
+    {
+      "Name": "sai",
+      "Username": "sai1",
+      "Email": "sai1@gmail.com",
+      "Password": "admin@123",
+      "Role": "admin",
+      "id": 1
+    },
+    {
+      "Name": "sai",
+      "Username": "sai2",
+      "Email": "sai2@gmail.com",
+      "Password": "1234567890",
+      "Role": "user",
+      "id": 2
+    }
+  ]
+}
